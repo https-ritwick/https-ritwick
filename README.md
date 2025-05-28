@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https-ritwick&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=https-ritwick&theme=radical&hide_border=false" alt="GitHub Streaks"/>
-</p>
-
----
-
 ### 📌 Top Languages
 
 <p align="center">
